@@ -1,4 +1,4 @@
-# git-commands
+# Git & Github Commands
 
 ls : list the directives 
 
@@ -55,6 +55,7 @@ IMP : same command is use to push updated content
 
 IMP : To push the another_branch we use git push origin another_branch
 
+
 Imp : the folder which start with your name is called origin 
 
 git clone https//github/username/repo.git  : this for cloning the project to local position
@@ -66,3 +67,5 @@ IMP : make sure to create a branch for every bug or feature (pull request is bra
 git origin name_of_branch -f : f for force when you wanted to repush the changes or deleted few commit we need to do force push
 
 git fetch --all --prune  : to fetch all the branch and , prune mean deleted branches also
+**Resourses for all git command which i found on the internet is 
+https://static.javatpoint.com/tutorial/git/download/Git%20Cheat%20Sheet.pdf
