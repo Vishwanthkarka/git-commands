@@ -47,6 +47,7 @@ git merge name_of_branch : to merge name_of_branch in to master branch
 
 git remote add origin http//github.com/your_rep.git  : this will help in uploading the content to github
 
+git push -u orgin
 git remote -v  : to view acces like fetch and push 
 
 git push origin master  OR git push orgin feature_branch: to push to the github (if you view enter your personal acess token move to settings > Development settings > personal token )
